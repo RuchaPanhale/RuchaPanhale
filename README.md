@@ -1,4 +1,4 @@
-# Hey, I'm Rucha!✨
+# Hi, I'm Rucha!✨
 
 🎓 MS Computer Science @ Binghamton University  
 💻 Interested in AI, Machine Learning, and Autonomous Systems  
