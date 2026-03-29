@@ -1,11 +1,13 @@
-# Hi, I'm Rucha!✨
+# Hi, I'm Rucha 👋
 
 🎓 MS Computer Science @ Binghamton University  
 💻 Interested in AI, Machine Learning, and Autonomous Systems  
 🚀 Building projects in AI, Robotics and NLP  
 
+💡 Interested in building real-world AI systems and intelligent automation.
+
 ## 🧠 Projects
-- LLM Fine-Tuning on Jane Austen Text
+- LLM Fine-Tuning on Jane Austen Text Data
 - Context-Aware Security Patrol Drone (in progress)
 - Malware Detection using Machine Learning
 - LLM Benchmark for Swarm Robotics (in progress)
