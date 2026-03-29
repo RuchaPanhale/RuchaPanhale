@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Rucha!✨
 
-<!--
-**RuchaPanhale/RuchaPanhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Computer Science @ Binghamton University  
+💻 Interested in AI, Machine Learning, and Autonomous Systems  
+🚀 Building projects in AI, Robotics and NLP  
 
-Here are some ideas to get you started:
+## 🧠 Projects
+- LLM Fine-Tuning on Jane Austen Text
+- Context-Aware Security Patrol Drone (in progress)
+- Malware Detection using Machine Learning
+- LLM Benchmark for Swarm Robotics (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Python, PyTorch, TensorFlow, Hugging Face, Scikit-learn  
+OpenCV, Matplotlib, Pandas, NumPy
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/rucha-panhale  
+GitHub: https://github.com/RuchaPanhale
