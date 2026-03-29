@@ -1,10 +1,8 @@
 # Hi, I'm Rucha 👋
 
-🎓 MS Computer Science @ Binghamton University  
-💻 Interested in AI, Machine Learning, and Autonomous Systems  
-🚀 Building projects in AI, Robotics and NLP  
-
-💡 Interested in building real-world AI systems and intelligent automation.
+🎓 MS Computer Science @ SUNY Binghamton  
+💻 Interested in AI, Robotics, Machine Learning & Autonomous Systems  
+🚀 Building real-world Autonomous Drone Systems, AI systems & LLMs 
 
 ## 🧠 Projects
 - LLM Fine-Tuning on Jane Austen Text Data
@@ -13,8 +11,18 @@
 - LLM Benchmark for Swarm Robotics (in progress)
 
 ## 🛠️ Skills
-Python, PyTorch, TensorFlow, Hugging Face, Scikit-learn  
-OpenCV, Matplotlib, Pandas, NumPy
+
+**Programming:**  
+Python, C, C++, Java
+
+**AI / Machine Learning:**  
+Machine Learning, Deep Learning, NLP, Transformers  
+
+**Frameworks & Libraries:**  
+PyTorch, Hugging Face, OpenCV  
+
+**Robotics & Systems:**  
+ROS, Reinforcement Learning, Navigation, SLAM, AirSim
 
 ## 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/rucha-panhale  
